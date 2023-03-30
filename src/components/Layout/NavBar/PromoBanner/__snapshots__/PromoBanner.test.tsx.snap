@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PromoBanner Component PromoBanner should be render correctly 1`] = `
+<div>
+  <div
+    class="sc-hKwDye bocIKv css-0"
+  >
+    <div
+      class="sc-eCImPb jLjuHf css-4jxr00"
+    >
+      <div
+        class="css-1l4w6pd"
+      >
+        <div
+          class="sc-bdvvtL gZSwSj css-0"
+        >
+          <div
+            class="sc-dkPtRN ldTtVc css-k008qs"
+          >
+            <img
+              alt="Animate Bell"
+              class="chakra-image css-0"
+              src="/gif/bell.gif"
+            />
+          </div>
+        </div>
+        <div
+          class="sc-gsDKAQ khYWvk css-k008qs"
+        >
+          <p
+            class="chakra-text css-1owyea7"
+          >
+            <b>
+              A demo banner
+            </b>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`PromoBanner Component PromoBanner should be render correctly without plaintext 1`] = `
+<div>
+  <div
+    class="sc-hKwDye bocIKv css-0"
+  >
+    <div
+      class="sc-eCImPb jLjuHf css-4jxr00"
+    >
+      <div
+        class="css-1l4w6pd"
+      >
+        <div
+          class="sc-bdvvtL gZSwSj css-0"
+        >
+          <div
+            class="sc-dkPtRN ldTtVc css-k008qs"
+          >
+            <img
+              alt="Animate Bell"
+              class="chakra-image css-0"
+              src="/gif/bell.gif"
+            />
+          </div>
+        </div>
+        <div
+          class="sc-gsDKAQ khYWvk css-k008qs"
+        >
+          <p
+            class="chakra-text css-1owyea7"
+          >
+            <b />
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

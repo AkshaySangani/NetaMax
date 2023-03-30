@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CouponInput component test CouponInput should be rendered correctly 1`] = `
+<div>
+  <div
+    class="css-1dqn28w"
+  >
+    <p
+      class="chakra-text css-1eflseq"
+    >
+      Cupón de descuento
+    </p>
+    <p
+      class="chakra-text css-gwea8b"
+    >
+      Cerrar
+    </p>
+  </div>
+  <div
+    class="css-hboir5"
+  >
+    <div
+      class="chakra-form-control css-0"
+      role="group"
+    >
+      <div
+        class="chakra-input__group css-1k5gfgc"
+      >
+        <input
+          class="chakra-input css-16kb41"
+          id="field-1"
+          placeholder="Escribe aqui tu cupón"
+        />
+        <div
+          class="chakra-input__right-element css-1q3w4l0"
+        >
+          <button
+            class="chakra-button css-mdk000"
+            type="submit"
+          >
+            Validar
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProfitBanner Component ProfitBanner should be render correctly 1`] = `
+<div>
+  <div>
+    <a
+      href="https://neta.mx/"
+      target="_blank"
+    >
+      <div
+        class="css-ky3xz8"
+      >
+        <div
+          class="chakra-stack css-1moilrc"
+        >
+          <p
+            class="chakra-text css-lxkbi3"
+          >
+            Tus ganancias hasta hoy son de
+             
+            <b>
+              ¡
+              $1,000.00
+               pesos!
+            </b>
+          </p>
+          <p
+            class="chakra-text css-xatlyb"
+          >
+            ¡Comparte tu liga y sigue ganando!
+          </p>
+        </div>
+      </div>
+    </a>
+  </div>
+</div>
+`;

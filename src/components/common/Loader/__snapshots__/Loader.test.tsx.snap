@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render Loader component Loader should be render correctly with default props 1`] = `
+<div>
+  <div
+    class="chakra-spinner css-166ypan"
+  >
+    <span
+      class="css-f8n5zr"
+    >
+      Loading...
+    </span>
+  </div>
+</div>
+`;
+
+exports[`Render Loader component Loader should be render correctly with props 1`] = `
+<div>
+  <div
+    class="chakra-spinner css-166ypan"
+  >
+    <span
+      class="css-f8n5zr"
+    >
+      Loading...
+    </span>
+  </div>
+</div>
+`;

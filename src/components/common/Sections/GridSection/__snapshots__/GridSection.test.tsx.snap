@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GridSection component GridSection should be render correctly 1`] = `
+<div>
+  <div
+    class="chakra-container css-tflc3m"
+  >
+    <div
+      class="css-n19ytf"
+    >
+      <div
+        class="css-tik1gu"
+      >
+        <p
+          class="chakra-text css-1ebn8vi"
+        >
+          Title
+        </p>
+      </div>
+      <div
+        class="css-0"
+      >
+        <div
+          class="css-1ymg3tg"
+        >
+          <div
+            data-testid="test-element"
+          >
+             
+            Test1
+             
+          </div>
+          <div
+            data-testid="test-element"
+          >
+             
+            Test2
+             
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

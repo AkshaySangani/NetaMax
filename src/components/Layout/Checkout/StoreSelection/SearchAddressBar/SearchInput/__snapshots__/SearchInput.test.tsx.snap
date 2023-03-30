@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render StoreConfirmation component SearchInput should be rendered correctly 1`] = `
+<div>
+  <div
+    class="css-13zf3j5"
+  >
+    <p
+      class="chakra-text css-1kdr4kh"
+    >
+      Localiza tu ubicación
+    </p>
+    <p
+      class="chakra-text css-kq9lap"
+    >
+      Escribe tu dirección o código postal para encontrar las tienditas cercanas a tu ubicación
+    </p>
+  </div>
+  <div
+    class="css-1530wb6"
+  >
+    <div
+      class="chakra-input__group css-4302v8"
+    >
+      <div
+        class="chakra-input__right-element css-eezmgu"
+      />
+      <input
+        class="chakra-input css-m14b0g"
+        placeholder="Dirección, ciudad, código postal"
+        value=""
+      />
+      <div
+        class="chakra-input__left-element css-1wqb1c8"
+      >
+        <svg
+          fill="none"
+          height="18"
+          viewBox="0 0 18 18"
+          width="18"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            clip-rule="evenodd"
+            d="M11.2924 12.4458C8.65021 14.5685 4.7826 14.4014 2.33331 11.9446C-0.294696 9.30856 -0.294696 5.0347 2.33331 2.39866C4.96131 -0.237379 9.22214 -0.237379 11.8501 2.39866C14.2994 4.85544 14.466 8.73487 12.3498 11.3851L17.4897 16.5408C17.7817 16.8337 17.7817 17.3085 17.4897 17.6014C17.1977 17.8943 16.7243 17.8943 16.4323 17.6014L11.2924 12.4458ZM3.39073 10.8839C1.34673 8.83369 1.34673 5.50957 3.39073 3.45932C5.43473 1.40907 8.74872 1.40907 10.7927 3.45932C12.8352 5.50807 12.8367 8.82881 10.7972 10.8794C10.7957 10.8809 10.7942 10.8824 10.7927 10.8839C10.7912 10.8854 10.7897 10.8869 10.7882 10.8884C8.74386 12.9342 5.43324 12.9327 3.39073 10.8839Z"
+            fill="#3A3A3A"
+            fill-rule="evenodd"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+</div>
+`;

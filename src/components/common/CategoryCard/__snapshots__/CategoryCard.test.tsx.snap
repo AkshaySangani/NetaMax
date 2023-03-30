@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CategoryCard Component CategoryCard should be render correctly 1`] = `
+<div>
+  <div
+    class="css-n29tsx"
+  >
+    <img
+      alt="Huevo blanco San Juan 12 pzas"
+      class="chakra-image__placeholder css-853n4v"
+      draggable="false"
+      src="/assets/images/noimg.png"
+    />
+  </div>
+</div>
+`;
