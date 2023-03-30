@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render PaginationComponent component PaginationComponent should be render correctly 1`] = `
+<div>
+  <div
+    class="css-o4syeq"
+  >
+    <div
+      class="css-6u6xpa"
+    >
+      <p
+        class="chakra-text css-1x4je9a"
+      >
+        1
+      </p>
+    </div>
+    <div
+      class="css-sg6es6"
+    >
+      <p
+        class="chakra-text css-qc0huw"
+      >
+        2
+      </p>
+    </div>
+  </div>
+</div>
+`;

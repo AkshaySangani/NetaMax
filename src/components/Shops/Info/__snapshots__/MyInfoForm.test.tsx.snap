@@ -1,0 +1,128 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MyInfoForm Component MyInfoForm should be render correctly 1`] = `
+<div>
+  <div
+    class="css-n178hi"
+  >
+    <div
+      class="css-1rh2iev"
+    >
+      <div
+        class="chakra-form-control css-0"
+        role="group"
+      >
+        <label
+          class="chakra-form__label css-uvho5g"
+          for="username"
+          id="field-1-label"
+        >
+          Nombre
+        </label>
+        <div
+          class="chakra-input__group css-4302v8"
+        >
+          <input
+            class="chakra-input css-0"
+            disabled=""
+            id="name"
+            placeholder="NetaMX"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="css-vawzhs"
+    >
+      <div
+        class="chakra-form-control css-0"
+        role="group"
+      >
+        <label
+          class="chakra-form__label css-uvho5g"
+          for="address"
+          id="field-2-label"
+        >
+          Dirección
+        </label>
+        <div
+          class="chakra-input__group css-4302v8"
+        >
+          <input
+            class="chakra-input css-0"
+            disabled=""
+            id="address"
+            placeholder="NetaMX Head Office"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="css-1jpvvaf"
+    >
+      <div
+        class="chakra-form-control css-0"
+        role="group"
+      >
+        <label
+          class="chakra-form__label css-uvho5g"
+          for="phoneNumber"
+          id="field-3-label"
+        >
+          Teléfono
+        </label>
+        <input
+          class="chakra-input css-0"
+          disabled=""
+          id="phoneNumber"
+          placeholder="xxx xxx xxxx"
+        />
+      </div>
+    </div>
+    <div
+      class="css-vawzhs"
+    >
+      <div
+        class="chakra-form-control css-0"
+        role="group"
+      >
+        <label
+          class="chakra-form__label css-uvho5g"
+          for="storeName"
+          id="field-4-label"
+        >
+          Nombre de la tienda
+        </label>
+        <input
+          class="chakra-input css-0"
+          disabled=""
+          id="storeName"
+          placeholder="NetaMX"
+        />
+      </div>
+    </div>
+    <div
+      class="css-1v7sldz"
+    >
+      <div
+        class="chakra-form-control css-0"
+        role="group"
+      >
+        <label
+          class="chakra-form__label css-uvho5g"
+          for="url"
+          id="field-5-label"
+        >
+          Url
+        </label>
+        <input
+          class="chakra-input css-0"
+          disabled=""
+          id="url"
+          placeholder="https://neta.mx?Host"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

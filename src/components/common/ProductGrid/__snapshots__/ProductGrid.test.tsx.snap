@@ -1,0 +1,148 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductGrid component ProductGrid should be render correctly 1`] = `
+<div>
+  <div
+    class="css-1ymg3tg"
+  >
+    <div
+      class="css-0"
+      data-testid="product-container"
+    >
+      <div
+        class="css-121pkih"
+      >
+        <div
+          class="css-lfeor1"
+          data-testid="product-button"
+        >
+          <div
+            class="css-0"
+          >
+            <div
+              class="css-j71k6g"
+            >
+              <p
+                class="chakra-text css-w8ktmk"
+                data-testid="product-tag"
+              />
+            </div>
+          </div>
+          <img
+            alt="Testing product"
+            class="chakra-image__placeholder css-2y8fku"
+            draggable="false"
+            src="/assets/images/noimg.png"
+          />
+        </div>
+        <div
+          class="css-8zy5qf"
+        >
+          <div
+            class="css-g89h0y"
+          >
+            <p
+              class="chakra-text css-1lgzimr"
+            >
+              Testing product
+            </p>
+          </div>
+          <div
+            class="css-70qvj9"
+            data-testid="discount-box"
+          >
+            <span
+              class="chakra-text css-d3r09a"
+            >
+              $4.04
+            </span>
+          </div>
+          <div
+            class="css-0"
+          />
+        </div>
+      </div>
+      <div
+        class="css-k008qs"
+      >
+        <button
+          class="chakra-button css-yzpepq"
+          data-testid="add-to-card-button"
+          type="button"
+        >
+          Añadir
+        </button>
+      </div>
+    </div>
+    <div
+      class="css-0"
+      data-testid="product-container"
+    >
+      <div
+        class="css-121pkih"
+      >
+        <div
+          class="css-lfeor1"
+          data-testid="product-button"
+        >
+          <div
+            class="css-0"
+          >
+            <div
+              class="css-j71k6g"
+            >
+              <p
+                class="chakra-text css-w8ktmk"
+                data-testid="product-tag"
+              />
+            </div>
+          </div>
+          <img
+            alt="Testing product1"
+            class="chakra-image__placeholder css-2y8fku"
+            draggable="false"
+            src="/assets/images/noimg.png"
+          />
+        </div>
+        <div
+          class="css-8zy5qf"
+        >
+          <div
+            class="css-g89h0y"
+          >
+            <p
+              class="chakra-text css-1lgzimr"
+            >
+              Testing product1
+            </p>
+          </div>
+          <div
+            class="css-70qvj9"
+            data-testid="discount-box"
+          >
+            <span
+              class="chakra-text css-d3r09a"
+            >
+              $5.04
+            </span>
+          </div>
+          <div
+            class="css-0"
+          />
+        </div>
+      </div>
+      <div
+        class="css-k008qs"
+      >
+        <button
+          class="chakra-button css-yzpepq"
+          data-testid="add-to-card-button"
+          type="button"
+        >
+          Añadir
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

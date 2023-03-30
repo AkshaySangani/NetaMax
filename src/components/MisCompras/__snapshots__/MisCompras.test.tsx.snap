@@ -1,0 +1,357 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render MisCompras component MisCompras should be render correctly with no orders and a tutorial video 1`] = `
+<div>
+  <div
+    class="css-npgrt2"
+  >
+    <div
+      class="css-dd7c02"
+    >
+      <div
+        class=""
+        style="height: 100%; top: 100%;"
+      >
+        <div
+          class=""
+          id=""
+        />
+      </div>
+      <h2
+        class="chakra-heading css-1rjsx0y"
+        data-testid="tutorial-message"
+      >
+        No tienes compras aún :(
+      </h2>
+      <div
+        class="css-huoxe1"
+      >
+        <p
+          class="chakra-text css-1dp9ibz"
+        >
+          Te invitamos a conocer nuestros productos mas baratos que cualquier super
+        </p>
+      </div>
+      <button
+        class="chakra-button css-19i0htf"
+        data-testid="redirect-button"
+        type="button"
+      >
+        Ir a comprar
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Render MisCompras component MisCompras should be render correctly with orders 1`] = `
+<div>
+  <div
+    class="infinite-scroll-component__outerdiv"
+  >
+    <div
+      class="infinite-scroll-component "
+      style="height: auto; overflow: hidden;"
+    >
+      <div
+        class="sc-bdvvtL iRDqbn css-0"
+      >
+        <div
+          class="css-9y56jl"
+        >
+          <div
+            class="css-f1o79g"
+          >
+            <div
+              class="css-k008qs"
+            >
+              <p
+                class="chakra-text css-13ih39a"
+              >
+                Tiendita:
+              </p>
+              <p
+                class="chakra-text css-1wbddnu"
+              >
+                Abarrotes
+              </p>
+            </div>
+            <div
+              class="css-k008qs"
+            >
+              <p
+                class="chakra-text css-13ih39a"
+              >
+                Fecha de entrega:
+              </p>
+              <p
+                class="chakra-text css-1wbddnu"
+              >
+                Miércoles, Marzo 23, 2022
+              </p>
+            </div>
+            <div
+              class="css-k008qs"
+            >
+              <p
+                class="chakra-text css-13ih39a"
+              >
+                Total:
+              </p>
+              <p
+                class="chakra-text css-1wbddnu"
+              >
+                $20.00
+              </p>
+            </div>
+            <div
+              class="css-k008qs"
+            >
+              <p
+                class="chakra-text css-13ih39a"
+              >
+                Código de entrega:
+              </p>
+              <p
+                class="chakra-text css-1wbddnu"
+              >
+                123123
+              </p>
+            </div>
+          </div>
+          <hr
+            aria-orientation="horizontal"
+            class="chakra-divider css-wz74kr"
+          />
+          <div
+            class="css-1hw8qak"
+          >
+            <div
+              class="css-mz9qt7"
+            >
+              <div
+                class="css-131wcsq"
+              >
+                <p
+                  class="chakra-text css-d8f8eb"
+                  data-testid="order-header"
+                >
+                  Estado del pedido
+                </p>
+              </div>
+            </div>
+          </div>
+          <hr
+            aria-orientation="horizontal"
+            class="chakra-divider css-wz74kr"
+          />
+          <div
+            class="css-f1o79g"
+          >
+            <div
+              class="css-13ih39a"
+            >
+              Tus productos:
+            </div>
+            <div
+              class="css-15qbb6"
+            >
+              <div
+                class="css-18vhmwz"
+              >
+                <img
+                  class="chakra-image__placeholder css-1jtd0sc"
+                  src="/assets/images/noimg.png"
+                />
+              </div>
+            </div>
+            <hr
+              aria-orientation="horizontal"
+              class="chakra-divider css-1p98don"
+            />
+          </div>
+          <div
+            class="sc-gsDKAQ eMaAuu css-0"
+          >
+            <button
+              class="chakra-button css-6d4n7v"
+              type="button"
+            >
+              Ver detalle del pedido
+            </button>
+            <hr
+              aria-orientation="vertical"
+              class="chakra-divider css-12gj880"
+            />
+            <a
+              class="chakra-link css-0"
+              href="https://api.whatsapp.com/send/?phone=%2B525545439866&text=Hola%2CTengo+una+duda..&app_absent=0"
+              target="_blank"
+            >
+              <button
+                class="chakra-button css-6d4n7v"
+                type="button"
+              >
+                Ayuda
+              </button>
+            </a>
+          </div>
+        </div>
+        <hr
+          aria-orientation="horizontal"
+          class="chakra-divider css-18kxs9k"
+        />
+      </div>
+      <div
+        class="sc-bdvvtL iRDqbn css-0"
+      >
+        <div
+          class="css-9y56jl"
+        >
+          <div
+            class="css-f1o79g"
+          >
+            <div
+              class="css-k008qs"
+            >
+              <p
+                class="chakra-text css-13ih39a"
+              >
+                Tiendita:
+              </p>
+              <p
+                class="chakra-text css-1wbddnu"
+              >
+                Abarrotes Tienda leo
+              </p>
+            </div>
+            <div
+              class="css-k008qs"
+            >
+              <p
+                class="chakra-text css-13ih39a"
+              >
+                Fecha de entrega:
+              </p>
+              <p
+                class="chakra-text css-1wbddnu"
+              >
+                Jueves, Marzo 24, 2022
+              </p>
+            </div>
+            <div
+              class="css-k008qs"
+            >
+              <p
+                class="chakra-text css-13ih39a"
+              >
+                Total:
+              </p>
+              <p
+                class="chakra-text css-1wbddnu"
+              >
+                $20.00
+              </p>
+            </div>
+            <div
+              class="css-k008qs"
+            >
+              <p
+                class="chakra-text css-13ih39a"
+              >
+                Código de entrega:
+              </p>
+              <p
+                class="chakra-text css-1wbddnu"
+              >
+                123123
+              </p>
+            </div>
+          </div>
+          <hr
+            aria-orientation="horizontal"
+            class="chakra-divider css-wz74kr"
+          />
+          <div
+            class="css-1hw8qak"
+          >
+            <div
+              class="css-mz9qt7"
+            >
+              <div
+                class="css-131wcsq"
+              >
+                <p
+                  class="chakra-text css-d8f8eb"
+                  data-testid="order-header"
+                >
+                  Estado del pedido
+                </p>
+              </div>
+            </div>
+          </div>
+          <hr
+            aria-orientation="horizontal"
+            class="chakra-divider css-wz74kr"
+          />
+          <div
+            class="css-f1o79g"
+          >
+            <div
+              class="css-13ih39a"
+            >
+              Tus productos:
+            </div>
+            <div
+              class="css-15qbb6"
+            >
+              <div
+                class="css-18vhmwz"
+              >
+                <img
+                  class="chakra-image__placeholder css-1jtd0sc"
+                  src="/assets/images/noimg.png"
+                />
+              </div>
+            </div>
+            <hr
+              aria-orientation="horizontal"
+              class="chakra-divider css-1p98don"
+            />
+          </div>
+          <div
+            class="sc-gsDKAQ eMaAuu css-0"
+          >
+            <button
+              class="chakra-button css-6d4n7v"
+              type="button"
+            >
+              Ver detalle del pedido
+            </button>
+            <hr
+              aria-orientation="vertical"
+              class="chakra-divider css-12gj880"
+            />
+            <a
+              class="chakra-link css-0"
+              href="https://api.whatsapp.com/send/?phone=%2B525545439866&text=Hola%2CTengo+una+duda..&app_absent=0"
+              target="_blank"
+            >
+              <button
+                class="chakra-button css-6d4n7v"
+                type="button"
+              >
+                Ayuda
+              </button>
+            </a>
+          </div>
+        </div>
+        <hr
+          aria-orientation="horizontal"
+          class="chakra-divider css-18kxs9k"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
