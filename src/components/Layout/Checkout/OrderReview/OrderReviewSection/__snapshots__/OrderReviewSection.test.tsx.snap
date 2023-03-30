@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`OrderReviewSection test component OrderReviewSection should be render correctly 1`] = `
+<div>
+  <div
+    class="css-y1gt6f"
+  >
+    <div
+      class="css-70qvj9"
+    >
+      <p
+        class="chakra-text css-1tsq2ie"
+      >
+        Section One
+      </p>
+    </div>
+  </div>
+</div>
+`;

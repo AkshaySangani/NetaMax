@@ -1,0 +1,1 @@
+export { GMVBanner } from "./GMVBanner";

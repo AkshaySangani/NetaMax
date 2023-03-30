@@ -1,0 +1,469 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BasketItems Component Basket should be render correctly 1`] = `
+<div>
+  <p
+    class="chakra-text css-r308kg"
+  >
+    Carrito de compras
+  </p>
+  <div
+    class="css-0"
+  >
+    <div
+      class="chakra-stack css-jvbvkr"
+    >
+      <div
+        class="css-qtq9ox"
+      >
+        <img
+          alt="Leche Alpura deslactosada 1L"
+          class="chakra-image css-1p3ce4y"
+          draggable="false"
+          fit="cover"
+          loading="lazy"
+          src="https://nopcommerce-assets.s3.us-east-2.amazonaws.com/0000946_0.png"
+        />
+      </div>
+      <div
+        class="css-1lnp64a"
+      >
+        <div
+          class="chakra-stack css-1hdc032"
+        >
+          <p
+            class="chakra-text css-11t66qp"
+          >
+            Leche Alpura deslactosada 1L
+          </p>
+          <div
+            class="css-k008qs"
+          >
+            <div
+              class="css-70qvj9"
+            >
+              <svg
+                fill="none"
+                height="19"
+                viewBox="0 0 24 19"
+                width="24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M23.1545 13.0625H22.5608V9.05098C22.5608 8.57969 22.3715 8.12695 22.0375 7.79297L18.3303 4.08574C17.9963 3.75176 17.5436 3.5625 17.0723 3.5625H15.4358V1.78125C15.4358 0.797852 14.6379 0 13.6545 0H1.77954C0.796143 0 -0.00170898 0.797852 -0.00170898 1.78125V13.6562C-0.00170898 14.6396 0.796143 15.4375 1.77954 15.4375H2.37329C2.37329 17.4043 3.96899 19 5.93579 19C7.90259 19 9.49829 17.4043 9.49829 15.4375H14.2483C14.2483 17.4043 15.844 19 17.8108 19C19.7776 19 21.3733 17.4043 21.3733 15.4375H23.1545C23.4811 15.4375 23.7483 15.1703 23.7483 14.8438V13.6562C23.7483 13.3297 23.4811 13.0625 23.1545 13.0625ZM5.93579 17.2188C4.95239 17.2188 4.15454 16.4209 4.15454 15.4375C4.15454 14.4541 4.95239 13.6562 5.93579 13.6562C6.91919 13.6562 7.71704 14.4541 7.71704 15.4375C7.71704 16.4209 6.91919 17.2188 5.93579 17.2188ZM17.8108 17.2188C16.8274 17.2188 16.0295 16.4209 16.0295 15.4375C16.0295 14.4541 16.8274 13.6562 17.8108 13.6562C18.7942 13.6562 19.592 14.4541 19.592 15.4375C19.592 16.4209 18.7942 17.2188 17.8108 17.2188ZM20.7795 9.5H15.4358V5.34375H17.0723L20.7795 9.05098V9.5Z"
+                  fill="#0744A6"
+                />
+              </svg>
+              <p
+                class="chakra-text css-9uwrv5"
+              >
+                Llega en un dia
+              </p>
+            </div>
+          </div>
+          <div
+            class="chakra-stack css-5mgjmq"
+          >
+            <p
+              class="chakra-text css-152p7nr"
+            >
+              $20.30
+            </p>
+            <div
+              class="chakra-stack css-1s2bty6"
+            >
+              <button
+                aria-label="remove"
+                class="chakra-button css-x9qz5a"
+                data-testid="incremental-basket-button-subtract"
+                type="button"
+              >
+                <svg
+                  aria-hidden="true"
+                  fill="currentColor"
+                  focusable="false"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M5 11h14v2H5z"
+                  />
+                </svg>
+              </button>
+              <input
+                aria-readonly="true"
+                class="chakra-input css-a5ete0"
+                data-testid="counter"
+                readonly=""
+                value="4"
+              />
+              <button
+                aria-label="add"
+                class="chakra-button css-x9qz5a"
+                data-testid="incremental-basket-button-add"
+                disabled=""
+                type="button"
+              >
+                <svg
+                  aria-hidden="true"
+                  fill="currentColor"
+                  focusable="false"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M19 11h-6V5h-2v6H5v2h6v6h2v-6h6z"
+                  />
+                </svg>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr
+      aria-orientation="horizontal"
+      class="chakra-divider css-yyz9kt"
+    />
+  </div>
+  <div
+    class="css-0"
+  >
+    <div
+      class="chakra-stack css-jvbvkr"
+    >
+      <div
+        class="css-qtq9ox"
+      >
+        <img
+          alt="Lomo de atun Dolores aleta amarilla en agua 133 gr"
+          class="chakra-image css-1p3ce4y"
+          draggable="false"
+          fit="cover"
+          loading="lazy"
+          src="https://nopcommerce-assets.s3.us-east-2.amazonaws.com/0000965_0.png"
+        />
+      </div>
+      <div
+        class="css-1lnp64a"
+      >
+        <div
+          class="chakra-stack css-1hdc032"
+        >
+          <p
+            class="chakra-text css-11t66qp"
+          >
+            Lomo de atun Dolores aleta amarilla en agua 133 gr
+          </p>
+          <div
+            class="css-k008qs"
+          >
+            <div
+              class="css-70qvj9"
+            >
+              <svg
+                fill="none"
+                height="19"
+                viewBox="0 0 24 19"
+                width="24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M23.1545 13.0625H22.5608V9.05098C22.5608 8.57969 22.3715 8.12695 22.0375 7.79297L18.3303 4.08574C17.9963 3.75176 17.5436 3.5625 17.0723 3.5625H15.4358V1.78125C15.4358 0.797852 14.6379 0 13.6545 0H1.77954C0.796143 0 -0.00170898 0.797852 -0.00170898 1.78125V13.6562C-0.00170898 14.6396 0.796143 15.4375 1.77954 15.4375H2.37329C2.37329 17.4043 3.96899 19 5.93579 19C7.90259 19 9.49829 17.4043 9.49829 15.4375H14.2483C14.2483 17.4043 15.844 19 17.8108 19C19.7776 19 21.3733 17.4043 21.3733 15.4375H23.1545C23.4811 15.4375 23.7483 15.1703 23.7483 14.8438V13.6562C23.7483 13.3297 23.4811 13.0625 23.1545 13.0625ZM5.93579 17.2188C4.95239 17.2188 4.15454 16.4209 4.15454 15.4375C4.15454 14.4541 4.95239 13.6562 5.93579 13.6562C6.91919 13.6562 7.71704 14.4541 7.71704 15.4375C7.71704 16.4209 6.91919 17.2188 5.93579 17.2188ZM17.8108 17.2188C16.8274 17.2188 16.0295 16.4209 16.0295 15.4375C16.0295 14.4541 16.8274 13.6562 17.8108 13.6562C18.7942 13.6562 19.592 14.4541 19.592 15.4375C19.592 16.4209 18.7942 17.2188 17.8108 17.2188ZM20.7795 9.5H15.4358V5.34375H17.0723L20.7795 9.05098V9.5Z"
+                  fill="#0744A6"
+                />
+              </svg>
+              <p
+                class="chakra-text css-9uwrv5"
+              >
+                Llega en un dia
+              </p>
+            </div>
+          </div>
+          <div
+            class="chakra-stack css-5mgjmq"
+          >
+            <p
+              class="chakra-text css-152p7nr"
+            >
+              $15.40
+            </p>
+            <div
+              class="chakra-stack css-1s2bty6"
+            >
+              <button
+                aria-label="remove"
+                class="chakra-button css-x9qz5a"
+                data-testid="incremental-basket-button-subtract"
+                type="button"
+              >
+                <svg
+                  aria-hidden="true"
+                  fill="currentColor"
+                  focusable="false"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M5 11h14v2H5z"
+                  />
+                </svg>
+              </button>
+              <input
+                aria-readonly="true"
+                class="chakra-input css-a5ete0"
+                data-testid="counter"
+                readonly=""
+                value="15"
+              />
+              <button
+                aria-label="add"
+                class="chakra-button css-x9qz5a"
+                data-testid="incremental-basket-button-add"
+                disabled=""
+                type="button"
+              >
+                <svg
+                  aria-hidden="true"
+                  fill="currentColor"
+                  focusable="false"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M19 11h-6V5h-2v6H5v2h6v6h2v-6h6z"
+                  />
+                </svg>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr
+      aria-orientation="horizontal"
+      class="chakra-divider css-yyz9kt"
+    />
+  </div>
+  <div
+    class="css-0"
+  >
+    <div
+      class="chakra-stack css-jvbvkr"
+    >
+      <div
+        class="css-qtq9ox"
+      >
+        <img
+          alt="Nutri Leche Deslactosada 1 Lt"
+          class="chakra-image css-1p3ce4y"
+          draggable="false"
+          fit="cover"
+          loading="lazy"
+          src="https://nopcommerce-assets.s3.us-east-2.amazonaws.com/0002732_0.png"
+        />
+      </div>
+      <div
+        class="css-1lnp64a"
+      >
+        <div
+          class="chakra-stack css-1hdc032"
+        >
+          <p
+            class="chakra-text css-11t66qp"
+          >
+            Nutri Leche Deslactosada 1 Lt
+          </p>
+          <div
+            class="css-k008qs"
+          >
+            <div
+              class="css-70qvj9"
+            >
+              <svg
+                fill="none"
+                height="19"
+                viewBox="0 0 24 19"
+                width="24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M23.1545 13.0625H22.5608V9.05098C22.5608 8.57969 22.3715 8.12695 22.0375 7.79297L18.3303 4.08574C17.9963 3.75176 17.5436 3.5625 17.0723 3.5625H15.4358V1.78125C15.4358 0.797852 14.6379 0 13.6545 0H1.77954C0.796143 0 -0.00170898 0.797852 -0.00170898 1.78125V13.6562C-0.00170898 14.6396 0.796143 15.4375 1.77954 15.4375H2.37329C2.37329 17.4043 3.96899 19 5.93579 19C7.90259 19 9.49829 17.4043 9.49829 15.4375H14.2483C14.2483 17.4043 15.844 19 17.8108 19C19.7776 19 21.3733 17.4043 21.3733 15.4375H23.1545C23.4811 15.4375 23.7483 15.1703 23.7483 14.8438V13.6562C23.7483 13.3297 23.4811 13.0625 23.1545 13.0625ZM5.93579 17.2188C4.95239 17.2188 4.15454 16.4209 4.15454 15.4375C4.15454 14.4541 4.95239 13.6562 5.93579 13.6562C6.91919 13.6562 7.71704 14.4541 7.71704 15.4375C7.71704 16.4209 6.91919 17.2188 5.93579 17.2188ZM17.8108 17.2188C16.8274 17.2188 16.0295 16.4209 16.0295 15.4375C16.0295 14.4541 16.8274 13.6562 17.8108 13.6562C18.7942 13.6562 19.592 14.4541 19.592 15.4375C19.592 16.4209 18.7942 17.2188 17.8108 17.2188ZM20.7795 9.5H15.4358V5.34375H17.0723L20.7795 9.05098V9.5Z"
+                  fill="#0744A6"
+                />
+              </svg>
+              <p
+                class="chakra-text css-9uwrv5"
+              >
+                Llega en un dia
+              </p>
+            </div>
+          </div>
+          <div
+            class="chakra-stack css-5mgjmq"
+          >
+            <p
+              class="chakra-text css-152p7nr"
+            >
+              $19.20
+            </p>
+            <div
+              class="chakra-stack css-1s2bty6"
+            >
+              <button
+                aria-label="remove"
+                class="chakra-button css-x9qz5a"
+                data-testid="incremental-basket-button-subtract"
+                type="button"
+              >
+                <svg
+                  aria-hidden="true"
+                  fill="currentColor"
+                  focusable="false"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M5 11h14v2H5z"
+                  />
+                </svg>
+              </button>
+              <input
+                aria-readonly="true"
+                class="chakra-input css-a5ete0"
+                data-testid="counter"
+                readonly=""
+                value="10"
+              />
+              <button
+                aria-label="add"
+                class="chakra-button css-x9qz5a"
+                data-testid="incremental-basket-button-add"
+                type="button"
+              >
+                <svg
+                  aria-hidden="true"
+                  fill="currentColor"
+                  focusable="false"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M19 11h-6V5h-2v6H5v2h6v6h2v-6h6z"
+                  />
+                </svg>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Empty BasketItems Component Basket should be render correctly 1`] = `
+<div>
+  <p
+    class="chakra-text css-r308kg"
+  >
+    Carrito de compras
+  </p>
+  <div
+    class="css-zupw4a"
+  >
+    <div
+      class="css-0"
+    >
+      <div
+        class="css-1k00f0"
+      >
+        <svg
+          fill="none"
+          height="95"
+          viewBox="0 0 95 95"
+          width="95"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <circle
+            cx="47.5"
+            cy="47.5"
+            fill="#F3F3F3"
+            r="47.5"
+          />
+          <g
+            clip-path="url(#clip0_3903_24797)"
+          >
+            <path
+              d="M34.9618 51.3059C34.5976 49.7451 34.2486 48.2427 33.8969 46.7445C32.3454 40.1409 30.7985 33.536 29.2563 26.9296C29.1325 26.3991 28.9602 26.2028 28.3846 26.2223C26.8915 26.2738 25.3956 26.2418 23.9011 26.239C22.8041 26.239 22.0437 25.5428 22.0548 24.5529C22.0659 23.5629 22.8111 22.9057 23.883 22.9043C25.9869 22.9043 28.0903 22.9043 30.1933 22.9043C31.2513 22.9043 31.8185 23.3666 32.066 24.4136C32.6026 26.6734 33.1364 28.9333 33.6828 31.2363H47.0876C47.0876 32.41 47.0959 33.5337 47.0764 34.6559C47.0598 34.7262 47.027 34.7917 46.9807 34.847C46.9343 34.9024 46.8757 34.9461 46.8095 34.9748C43.637 36.2752 42.547 40.6013 45.3956 43.3081C46.4147 44.2828 47.3837 45.302 48.3791 46.2975C50.502 48.4181 53.5981 48.439 55.7474 46.3365C56.8151 45.2895 57.8772 44.2382 58.9171 43.1647C61.4488 40.5429 60.7119 36.5663 57.4268 34.9943C57.2878 34.9316 57.1112 34.7812 57.1098 34.6684C57.0862 33.5406 57.0973 32.4267 57.0973 31.2446H57.6534C60.7472 31.2446 63.8409 31.2446 66.9347 31.2446C70.4451 31.2446 72.7862 34.2187 71.9201 37.6203C70.8079 41.9747 69.6753 46.3226 68.5223 50.664C67.855 53.1856 65.9865 54.5975 63.3784 54.5975H35.7904C35.5474 54.5862 35.3039 54.5988 35.0633 54.6351C34.677 54.714 34.3315 54.9285 34.0891 55.2399C33.8467 55.5514 33.7233 55.9393 33.7412 56.3338C33.7719 56.7355 33.9413 57.114 34.2204 57.4042C34.4995 57.6943 34.8708 57.8781 35.2705 57.9238C35.4783 57.9376 35.6866 57.9408 35.8947 57.9336H63.4215C63.6474 57.924 63.8737 57.9361 64.0972 57.9698C64.4856 58.0582 64.8296 58.2828 65.067 58.6031C65.3044 58.9234 65.4196 59.3181 65.3917 59.716C65.3638 60.114 65.1947 60.4887 64.915 60.7727C64.6353 61.0566 64.2633 61.2309 63.8664 61.2641C63.7621 61.2725 63.6579 61.2641 63.5536 61.2641C54.2195 61.2641 44.8854 61.2641 35.5513 61.2641C32.9349 61.2641 30.9023 59.5501 30.4644 57.0118C30.0126 54.3747 31.8977 51.7807 34.5753 51.363L34.9618 51.3059Z"
+              fill="#767676"
+            />
+            <path
+              d="M40.3989 72.945C39.4114 72.9414 38.4471 72.6448 37.6279 72.0925C36.8086 71.5403 36.1712 70.7572 35.7961 69.8423C35.4211 68.9273 35.3252 67.9216 35.5207 66.9521C35.7161 65.9826 36.1941 65.0929 36.8943 64.3954C37.5944 63.6979 38.4853 63.2239 39.4543 63.0333C40.4233 62.8426 41.427 62.9439 42.3385 63.3244C43.2501 63.7049 44.0286 64.3474 44.5756 65.1708C45.1227 65.9942 45.4138 66.9615 45.4122 67.9506C45.4074 69.2783 44.8768 70.5499 43.9369 71.4862C42.9971 72.4226 41.7246 72.9472 40.3989 72.945Z"
+              fill="#767676"
+            />
+            <path
+              d="M58.7778 72.945C57.7902 72.9453 56.8247 72.6524 56.0033 72.1033C55.1818 71.5541 54.5414 70.7735 54.1628 69.8599C53.7842 68.9464 53.6846 67.941 53.8764 66.9707C54.0681 66.0004 54.5428 65.1089 55.2404 64.4087C55.9379 63.7085 56.8271 63.2311 57.7954 63.0369C58.7638 62.8426 59.7679 62.9402 60.6809 63.3173C61.5939 63.6945 62.3748 64.3342 62.9249 65.1556C63.475 65.9771 63.7696 66.9434 63.7715 67.9325C63.7697 69.2594 63.2434 70.5316 62.3076 71.4709C61.3718 72.4103 60.1027 72.9403 58.7778 72.945Z"
+              fill="#767676"
+            />
+            <path
+              d="M53.7605 38.8777C54.026 38.6284 54.1776 38.4599 54.3555 38.3207C54.6737 38.0603 55.0767 37.9267 55.4871 37.9455C55.8976 37.9642 56.2867 38.134 56.5799 38.4224C57.1847 39.0225 57.275 40.0208 56.6897 40.6501C55.5433 41.8569 54.3643 43.0362 53.153 44.1882C52.8539 44.4655 52.4593 44.616 52.0518 44.6082C51.6444 44.6004 51.2558 44.4349 50.9675 44.1464C49.8043 43.0251 48.6615 41.8829 47.5392 40.7198C47.3918 40.5642 47.2766 40.3809 47.2003 40.1806C47.124 39.9802 47.088 39.7667 47.0945 39.5524C47.101 39.338 47.1497 39.1271 47.238 38.9317C47.3262 38.7363 47.4522 38.5604 47.6087 38.414C47.9111 38.12 48.3135 37.9515 48.7349 37.9424C49.1564 37.9334 49.5656 38.0845 49.8803 38.3653C50.0346 38.5045 50.1778 38.6437 50.4197 38.8735V38.2302C50.4197 35.3647 50.4197 32.4978 50.4197 29.6309C50.4197 28.8136 50.8688 28.2135 51.6084 27.9851C52.2952 27.7721 53.0682 28.006 53.431 28.6312C53.626 28.9745 53.7321 29.3613 53.7396 29.7562C53.7647 32.5702 53.7535 35.3842 53.7535 38.1996L53.7605 38.8777Z"
+              fill="#767676"
+            />
+          </g>
+          <defs>
+            <clippath
+              id="clip0_3903_24797"
+            >
+              <rect
+                fill="white"
+                height="50.0446"
+                transform="translate(22.0547 22.9023)"
+                width="50.0446"
+              />
+            </clippath>
+          </defs>
+        </svg>
+      </div>
+      <div
+        class="css-eaztw2"
+      >
+        <p
+          class="chakra-text css-9rwmp5"
+        >
+          El carrito de compras está vacío
+        </p>
+        <p
+          class="chakra-text css-1xcwzc"
+        >
+          Agrega tu primer producto y disfruta del supermercado del ahorro
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;

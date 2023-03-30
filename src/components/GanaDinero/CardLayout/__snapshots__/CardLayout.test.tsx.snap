@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render CardLayout Component CardLayout should render properly with test children 1`] = `
+<div>
+  <div
+    class="sc-bdvvtL bvVYQj css-k008qs"
+  >
+    <div
+      class="sc-gsDKAQ kWXsUD css-0"
+    >
+      <div
+        class="sc-dkPtRN egXpyz css-0"
+        data-testid="card-layout-banner"
+      >
+        Test Banner
+      </div>
+    </div>
+    <div
+      class="css-7w6khc"
+    >
+      <div
+        class="css-10klw3m"
+      >
+        <div
+          class="sc-hKwDye dlqxDY css-0"
+        >
+          <div
+            class="sc-eCImPb ftCsbL css-18duxr7"
+            data-testid="card-layout-children"
+          >
+            <div>
+              <span
+                data-testid="card-layout-test-children"
+              >
+                This is a test
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Render CardLayout Component CardLayout should render properly without children 1`] = `
+<div>
+  <div
+    class="sc-bdvvtL bvVYQj css-k008qs"
+  >
+    <div
+      class="sc-gsDKAQ kWXsUD css-0"
+    >
+      <div
+        class="sc-dkPtRN egXpyz css-0"
+        data-testid="card-layout-banner"
+      >
+        Test Banner
+      </div>
+    </div>
+    <div
+      class="css-7w6khc"
+    >
+      <div
+        class="css-10klw3m"
+      >
+        <div
+          class="sc-hKwDye dlqxDY css-0"
+        >
+          <div
+            class="sc-eCImPb ftCsbL css-18duxr7"
+            data-testid="card-layout-children"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
