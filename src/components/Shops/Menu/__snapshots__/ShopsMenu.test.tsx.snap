@@ -1,0 +1,222 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ShopsMenu component ShopsMenu should be render correctly 1`] = `
+<div>
+  <div
+    class="css-94nk3j"
+  >
+    <div
+      class="css-10l8k0f"
+    >
+      <div
+        class="css-156omwe"
+      >
+        <div
+          class="css-ez6bdc"
+          data-testid="Inicio"
+        >
+          <div
+            class="css-1rxcc56"
+          >
+            <svg
+              fill="none"
+              height="24"
+              viewBox="0 0 24 24"
+              width="24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M19.6585 9.70153L12.6585 3.57653C12.2815 3.24663 11.7185 3.24663 11.3415 3.57652L4.3415 9.70153C4.12448 9.89141 4 10.1657 4 10.4541V19.0003C4 19.5526 4.44772 20.0003 5 20.0003H9C9.55228 20.0003 10 19.5526 10 19.0003V15.0003C10 14.448 10.4477 14.0003 11 14.0003H13C13.5523 14.0003 14 14.448 14 15.0003V19.0003C14 19.5526 14.4477 20.0003 15 20.0003H19C19.5523 20.0003 20 19.5526 20 19.0003V10.4541C20 10.1657 19.8755 9.89141 19.6585 9.70153Z"
+                stroke="#353535"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-opacity="0.4"
+                stroke-width="2"
+              />
+            </svg>
+          </div>
+          <p
+            class="chakra-text css-mekj08"
+          >
+            Inicio
+          </p>
+        </div>
+      </div>
+      <div
+        class="css-156omwe"
+      >
+        <div
+          class="css-ez6bdc"
+          data-testid="Ventas"
+        >
+          <div
+            class="css-1rxcc56"
+          >
+            <svg
+              fill="none"
+              height="24"
+              viewBox="0 0 25 24"
+              width="25"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M6.16675 17H4.16675C3.61446 17 3.16675 16.5523 3.16675 16L3.16675 8C3.16675 7.44772 3.61446 7 4.16675 7L20.1667 7C20.719 7 21.1667 7.44771 21.1667 8V16C21.1667 16.5523 20.719 17 20.1667 17H18.1667"
+                stroke="#353535"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-opacity="0.4"
+                stroke-width="2"
+              />
+              <path
+                d="M7.16675 21L17.1667 21C17.719 21 18.1667 20.5523 18.1667 20V16C18.1667 15.4477 17.719 15 17.1667 15L7.16675 15C6.61446 15 6.16675 15.4477 6.16675 16L6.16675 20C6.16675 20.5523 6.61446 21 7.16675 21Z"
+                stroke="#353535"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-opacity="0.4"
+                stroke-width="2"
+              />
+              <path
+                d="M10.1667 11H14.1667"
+                stroke="#353535"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-opacity="0.4"
+                stroke-width="2"
+              />
+              <path
+                d="M7.16675 7L17.1667 7C17.719 7 18.1667 6.55229 18.1667 6V4C18.1667 3.44772 17.719 3 17.1667 3L7.16675 3C6.61446 3 6.16675 3.44772 6.16675 4L6.16675 6C6.16675 6.55229 6.61446 7 7.16675 7Z"
+                stroke="#353535"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-opacity="0.4"
+                stroke-width="2"
+              />
+            </svg>
+          </div>
+          <p
+            class="chakra-text css-mekj08"
+          >
+            Ventas
+          </p>
+        </div>
+      </div>
+      <div
+        class="css-156omwe"
+      >
+        <div
+          class="css-ez6bdc"
+          data-testid="Clientes"
+        >
+          <div
+            class="css-1rxcc56"
+          >
+            <svg
+              fill="none"
+              height="24"
+              viewBox="0 0 25 24"
+              width="25"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M7.83325 20C7.83325 18.3431 10.0718 17 12.8333 17C15.5947 17 17.8333 18.3431 17.8333 20"
+                stroke="#353535"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-opacity="0.4"
+                stroke-width="2"
+              />
+              <path
+                d="M18.8333 14.25C20.5992 14.7129 21.8333 15.7702 21.8333 17.0004"
+                stroke="#353535"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-opacity="0.4"
+                stroke-width="2"
+              />
+              <path
+                d="M6.83325 14.25C5.06735 14.7129 3.83325 15.7702 3.83325 17.0004"
+                stroke="#353535"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-opacity="0.4"
+                stroke-width="2"
+              />
+              <path
+                d="M12.8333 14C14.4901 14 15.8333 12.6569 15.8333 11C15.8333 9.34315 14.4901 8 12.8333 8C11.1764 8 9.83325 9.34315 9.83325 11C9.83325 12.6569 11.1764 14 12.8333 14Z"
+                stroke="#353535"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-opacity="0.4"
+                stroke-width="2"
+              />
+              <path
+                d="M18.8333 10.2361C19.447 9.68679 19.8333 8.8885 19.8333 8C19.8333 6.34315 18.4901 5 16.8333 5C16.0649 5 15.364 5.28885 14.8333 5.76389"
+                stroke="#353535"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-opacity="0.4"
+                stroke-width="2"
+              />
+              <path
+                d="M6.83325 10.2361C6.2195 9.68679 5.83325 8.8885 5.83325 8C5.83325 6.34315 7.1764 5 8.83325 5C9.60161 5 10.3025 5.28885 10.8333 5.76389"
+                stroke="#353535"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-opacity="0.4"
+                stroke-width="2"
+              />
+            </svg>
+          </div>
+          <p
+            class="chakra-text css-mekj08"
+          >
+            Clientes
+          </p>
+        </div>
+      </div>
+      <div
+        class="css-156omwe"
+      >
+        <div
+          class="css-ez6bdc"
+          data-testid="Cuenta"
+        >
+          <div
+            class="css-1rxcc56"
+          >
+            <svg
+              fill="none"
+              height="24"
+              viewBox="0 0 24 24"
+              width="24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M6 19C6 16.7909 8.68629 15 12 15C15.3137 15 18 16.7909 18 19"
+                stroke="#353535"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-opacity="0.4"
+                stroke-width="2"
+              />
+              <path
+                d="M12 12C14.2091 12 16 10.2091 16 8C16 5.79086 14.2091 4 12 4C9.79086 4 8 5.79086 8 8C8 10.2091 9.79086 12 12 12Z"
+                stroke="#353535"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-opacity="0.4"
+                stroke-width="2"
+              />
+            </svg>
+          </div>
+          <p
+            class="chakra-text css-mekj08"
+          >
+            Cuenta
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

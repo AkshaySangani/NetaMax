@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`OrderDetail component OrderDetail should be render correctly 1`] = `
+<div>
+  <div
+    class="chakra-container css-1f810hq"
+  >
+    <div
+      class="css-1lekzkb"
+    >
+      <div
+        class="css-x4l7hw"
+      >
+        <img
+          alt="Lampara de Uñas Uv-Led Sun Secado Rapido 54w"
+          class="chakra-image css-1g7okjh"
+          fit="contain"
+          src="https://nopcommerce-assets.s3.us-east-2.amazonaws.com/0003878_0.webp"
+        />
+      </div>
+      <div
+        class="css-0"
+      >
+        <p
+          class="chakra-text css-wbyk11"
+        >
+          Lampara de Uñas Uv-Led Sun Secado Rapido 54w
+        </p>
+        <p
+          class="chakra-text css-1s07bbm"
+        >
+          1
+           
+          unidad
+        </p>
+        <p
+          class="chakra-text css-171oaxm"
+        >
+          $149.00
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;
