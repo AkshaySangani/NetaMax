@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`IncrementalButton Component IncrementalButton should be render correctly 1`] = `
+<div>
+  <div
+    class="chakra-stack css-4qlusk"
+  >
+    <button
+      aria-label="remove"
+      class="chakra-button css-ljqi8d"
+      type="button"
+    >
+      <svg
+        aria-hidden="true"
+        fill="currentColor"
+        focusable="false"
+        height="1em"
+        stroke="currentColor"
+        stroke-width="0"
+        viewBox="0 0 24 24"
+        width="1em"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M5 11h14v2H5z"
+        />
+      </svg>
+    </button>
+    <input
+      aria-readonly="true"
+      class="chakra-input css-xi606m"
+      data-testid="counter"
+      readonly=""
+      value="1"
+    />
+    <button
+      aria-label="add"
+      class="chakra-button css-ljqi8d"
+      type="button"
+    >
+      <svg
+        aria-hidden="true"
+        fill="currentColor"
+        focusable="false"
+        height="1em"
+        stroke="currentColor"
+        stroke-width="0"
+        viewBox="0 0 24 24"
+        width="1em"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M19 11h-6V5h-2v6H5v2h6v6h2v-6h6z"
+        />
+      </svg>
+    </button>
+  </div>
+</div>
+`;

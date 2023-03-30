@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DeliverySite component test DeliverySite should be rendered correctly 1`] = `
+<div>
+  <div
+    class="css-k8wr52"
+  >
+    <div
+      class="css-1siwe0b"
+    >
+      <p
+        class="chakra-text css-okz3aw"
+      >
+        Sitio de entrega
+      </p>
+      <p
+        class="chakra-text css-8whdou"
+      >
+        Esta es la tiendita que elegiste para la entrega
+      </p>
+      <div
+        class="css-mifb2i"
+      >
+        <div
+          class="css-2jtlu4"
+        >
+          <div
+            class="css-qim7r6"
+          >
+            <img
+              class="chakra-image css-34k09d"
+              src="/assets/images/store.png"
+            />
+          </div>
+        </div>
+        <div
+          class="css-12w7o40"
+        >
+          <p
+            class="chakra-text css-1mzljxq"
+          >
+            Tienda Agustin
+          </p>
+          <p
+            class="chakra-text css-w6om4s"
+          >
+            Lamartine 111
+          </p>
+          <p
+            class="chakra-text css-r4awxu"
+          >
+            Cambiar tiendita
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

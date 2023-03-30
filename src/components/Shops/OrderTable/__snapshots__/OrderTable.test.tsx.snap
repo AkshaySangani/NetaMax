@@ -1,0 +1,155 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`OrderTable Component OrderTable should be render correctly 1`] = `
+<div>
+  <div
+    class="css-0"
+  >
+    <div
+      class="css-1itv5e3"
+    >
+      <hr
+        aria-orientation="horizontal"
+        class="chakra-divider css-8gqyvx"
+      />
+      <div
+        class="css-1u3f7f6"
+      >
+        <div
+          class="css-k008qs"
+        >
+          <p
+            class="chakra-text css-o2y8il"
+          >
+            Cigarros Pall Mall Mykonos
+          </p>
+        </div>
+      </div>
+      <div
+        class="css-l3vf2k"
+      >
+        <div
+          class="css-tuh9u2"
+        >
+          <p
+            class="chakra-text css-1wufyje"
+          >
+            Cantidad:
+          </p>
+        </div>
+        <div
+          class="css-tuh9u2"
+        >
+          <p
+            class="chakra-text css-1wufyje"
+          >
+            Precio:
+          </p>
+        </div>
+        <div
+          class="css-tuh9u2"
+        >
+          <p
+            class="chakra-text css-0"
+          >
+            1
+          </p>
+        </div>
+        <div
+          class="css-tuh9u2"
+        >
+          <p
+            class="chakra-text css-0"
+          >
+            $53.95
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="css-1itv5e3"
+    >
+      <hr
+        aria-orientation="horizontal"
+        class="chakra-divider css-8gqyvx"
+      />
+      <div
+        class="css-1u3f7f6"
+      >
+        <div
+          class="css-k008qs"
+        >
+          <p
+            class="chakra-text css-o2y8il"
+          >
+            Pasta Dental Colgate Triple Accion Original 50 M
+          </p>
+        </div>
+      </div>
+      <div
+        class="css-l3vf2k"
+      >
+        <div
+          class="css-tuh9u2"
+        >
+          <p
+            class="chakra-text css-1wufyje"
+          >
+            Cantidad:
+          </p>
+        </div>
+        <div
+          class="css-tuh9u2"
+        >
+          <p
+            class="chakra-text css-1wufyje"
+          >
+            Precio:
+          </p>
+        </div>
+        <div
+          class="css-tuh9u2"
+        >
+          <p
+            class="chakra-text css-0"
+          >
+            2
+          </p>
+        </div>
+        <div
+          class="css-tuh9u2"
+        >
+          <p
+            class="chakra-text css-0"
+          >
+            $13.50
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      align="right"
+      class="css-dm83zx"
+    >
+      <p
+        class="chakra-text css-pmdoy0"
+      >
+        Subtotal: 
+        $735.25
+      </p>
+      <p
+        class="chakra-text css-pmdoy0"
+      >
+        Descuento: 
+        $20.00
+      </p>
+      <p
+        class="chakra-text css-nbukwx"
+      >
+        Total: 
+        $710.25
+      </p>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Checkmark Component Checkmark should be render correctly 1`] = `
+<div>
+  <svg
+    class="sc-bdvvtL gAbBrJ checkmark"
+    style="width: 96px; height: 96px; color: rgb(234, 247, 238);"
+    viewBox="0 0 52 52"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <circle
+      class="sc-gsDKAQ gXwmvj checkmark__circle"
+      cx="26"
+      cy="26"
+      fill="none"
+      r="25"
+    />
+    <path
+      class="sc-dkPtRN dmPwJp checkmark__check"
+      d="M14.1 27.2l7.1 7.2 16.7-16.8"
+      fill="none"
+    />
+  </svg>
+</div>
+`;
+
+exports[`Checkmark Component Custom size 1`] = `
+<div>
+  <svg
+    class="sc-bdvvtL gAbBrJ checkmark"
+    style="width: 24px; height: 24px;"
+    viewBox="0 0 52 52"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <circle
+      class="sc-gsDKAQ gXwmvj checkmark__circle"
+      cx="26"
+      cy="26"
+      fill="none"
+      r="25"
+    />
+    <path
+      class="sc-dkPtRN dmPwJp checkmark__check"
+      d="M14.1 27.2l7.1 7.2 16.7-16.8"
+      fill="none"
+    />
+  </svg>
+</div>
+`;

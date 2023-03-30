@@ -1,0 +1,102 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SummaryEmpty Component SummaryEmpty should be render correctly with hasSummary flag 1`] = `
+<div>
+  <div
+    class="css-12h7owt"
+  >
+    <div
+      class="css-nt4f9c"
+    >
+      <div
+        class="css-1ofqig9"
+      >
+        <div
+          class="css-j7qwjs"
+        >
+          <p
+            class="chakra-text css-in3yi3"
+          >
+            Aún no tienes ventas para este día
+          </p>
+          <p
+            class="chakra-text css-0"
+          >
+            Invita a tus clientes a comprar en tu liga para aumentar las ganancias de tu tiendita.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="css-ks45v5"
+    >
+      wwww.neta.mx/
+      Shop
+    </div>
+    <a
+      class="chakra-link css-fx7esi"
+      href="https://nopcommerce-assets.s3.us-east-2.amazonaws.com"
+    >
+      <button
+        class="chakra-button css-1y2lowl"
+        type="button"
+      >
+        <svg
+          fill="none"
+          height="23"
+          viewBox="0 0 20 23"
+          width="20"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M16.1289 16.0449C15.0864 17.0874 12.875 19.2988 11.4135 20.7603C10.6325 21.5414 9.36862 21.5412 8.58757 20.7601C7.15127 19.3238 4.9841 17.1566 3.87239 16.0449C0.487849 12.6604 0.487849 7.17295 3.87239 3.78841C7.25694 0.403864 12.7444 0.403864 16.1289 3.78841C19.5135 7.17295 19.5135 12.6604 16.1289 16.0449Z"
+            stroke="white"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+          />
+          <path
+            d="M13.2507 9.91667C13.2507 11.7116 11.7956 13.1667 10.0007 13.1667C8.20573 13.1667 6.75065 11.7116 6.75065 9.91667C6.75065 8.12174 8.20573 6.66667 10.0007 6.66667C11.7956 6.66667 13.2507 8.12174 13.2507 9.91667Z"
+            stroke="white"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+          />
+        </svg>
+        <p
+          class="chakra-text css-kbn7if"
+        >
+          Comparte tu liga
+        </p>
+      </button>
+    </a>
+  </div>
+</div>
+`;
+
+exports[`SummaryEmpty Component SummaryEmpty should be render correctly with hasSummary flag false 1`] = `
+<div>
+  <div
+    class="css-1y150zw"
+  >
+    <div
+      class="css-sm9syx"
+    >
+      <div
+        class="css-j7qwjs"
+      >
+        <p
+          class="chakra-text css-in3yi3"
+        >
+          Las ventas para esta fecha se cerraron
+        </p>
+        <p
+          class="chakra-text css-0"
+        >
+          Ninguna venta se registró en tu tiendita para este día, selecciona otra fecha para ver tus ventas.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;

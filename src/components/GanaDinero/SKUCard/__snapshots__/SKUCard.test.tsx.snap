@@ -1,0 +1,104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render SKUCard component SKUCard should render properly when having coins to claim 1`] = `
+<div>
+  <div
+    class="sc-bdvvtL bvVYQj css-k008qs"
+  >
+    <div
+      class="sc-gsDKAQ kWXsUD css-0"
+    >
+      <div
+        class="sc-dkPtRN egXpyz css-0"
+        data-testid="card-layout-banner"
+      >
+        Te regalamos $10
+      </div>
+    </div>
+    <div
+      class="css-7w6khc"
+    >
+      <div
+        class="css-10klw3m"
+      >
+        <div
+          class="sc-hKwDye dlqxDY css-0"
+        >
+          <div
+            class="sc-eCImPb ftCsbL css-101gstn"
+            data-testid="card-layout-children"
+          >
+            <div
+              class="css-10vksws"
+            >
+              <div
+                class="css-zyhhhw"
+              >
+                <div
+                  class="css-15foczu"
+                >
+                  <div
+                    class="css-2nkt43"
+                  >
+                    <p
+                      class="chakra-text css-1mnrwgd"
+                      data-testid="sku-card-items"
+                    >
+                      5
+                    </p>
+                  </div>
+                  <div
+                    class="css-50t65g"
+                  >
+                    <img
+                      class="chakra-image css-1hihhg0"
+                    />
+                    <div
+                      class="css-kkn1gn"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="css-0"
+                >
+                  <p
+                    class="chakra-text css-t7zs25"
+                    data-testid="sku-card-title"
+                  >
+                    Test product title
+                  </p>
+                  <p
+                    class="chakra-text css-40gfk0"
+                    data-testid="sku-card-description"
+                  >
+                    Ganas 10 monetas para tu próxima compra.
+                  </p>
+                </div>
+              </div>
+              <div
+                class="css-1aljbdn"
+              >
+                <p
+                  class="chakra-text css-1v8sl5v"
+                  data-testid="sku-card-date"
+                >
+                  *Válido hasta el
+                   
+                  28 de mayo
+                </p>
+                <button
+                  class="chakra-button css-t905fy"
+                  data-testid="SKU-card-button"
+                  type="button"
+                >
+                  Empezar reto
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
