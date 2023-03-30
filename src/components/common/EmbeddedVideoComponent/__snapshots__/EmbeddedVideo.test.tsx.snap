@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render EmbeddedVideo component EmbeddedVideo should be render correctly 1`] = `
+<div>
+  <div
+    class=""
+    style="height: 100%; top: 100%;"
+  >
+    <div
+      class=""
+      id=""
+    />
+  </div>
+</div>
+`;

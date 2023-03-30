@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render SearchDropDown component SearchDropDown should be rendered correctly 1`] = `
+<div>
+  <div
+    class="chakra-stack css-b71nz5"
+  >
+    <div
+      class="css-1h369zo"
+    >
+      <div
+        class="css-70qvj9"
+      >
+        <svg
+          fill="none"
+          height="32"
+          viewBox="0 0 32 32"
+          width="32"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <circle
+            cx="16"
+            cy="16"
+            fill="#353535"
+            fill-opacity="0.04"
+            r="16"
+          />
+          <path
+            d="M16 15.3327C16.7363 15.3327 17.3333 14.7357 17.3333 13.9993C17.3333 13.263 16.7363 12.666 16 12.666C15.2636 12.666 14.6666 13.263 14.6666 13.9993C14.6666 14.7357 15.2636 15.3327 16 15.3327Z"
+            stroke="#353535"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-opacity="0.4"
+          />
+          <path
+            d="M16 22C16 22 20.6667 18.7692 20.6667 14.6154C20.6667 13.3913 20.175 12.2174 19.2999 11.3518C18.4247 10.4863 17.2377 10 16 10C14.7624 10 13.5754 10.4863 12.7002 11.3518C11.825 12.2174 11.3334 13.3913 11.3334 14.6154C11.3334 18.7692 16 22 16 22Z"
+            stroke="#353535"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-opacity="0.4"
+            stroke-width="1.5"
+          />
+        </svg>
+        <div
+          class="css-1qemygu"
+        >
+          <div
+            class="css-k008qs"
+          >
+            <p
+              class="chakra-text css-1nfcp0q"
+            >
+              Adana
+            </p>
+          </div>
+          <p
+            class="chakra-text css-9lrgos"
+          >
+            Reşatbey, Seyhan/Provincia de Adana, Turquía
+          </p>
+        </div>
+      </div>
+      <svg
+        fill="none"
+        height="10"
+        viewBox="0 0 6 10"
+        width="6"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M1.70711 0.292893C1.31658 -0.0976311 0.683417 -0.0976311 0.292893 0.292893C-0.0976311 0.683417 -0.0976311 1.31658 0.292893 1.70711L1.70711 0.292893ZM5 5L5.70711 5.70711C6.09763 5.31658 6.09763 4.68342 5.70711 4.29289L5 5ZM0.292893 8.29289C-0.0976311 8.68342 -0.0976311 9.31658 0.292893 9.70711C0.683417 10.0976 1.31658 10.0976 1.70711 9.70711L0.292893 8.29289ZM0.292893 1.70711L4.29289 5.70711L5.70711 4.29289L1.70711 0.292893L0.292893 1.70711ZM4.29289 4.29289L0.292893 8.29289L1.70711 9.70711L5.70711 5.70711L4.29289 4.29289Z"
+          fill="#009DB5"
+        />
+      </svg>
+    </div>
+  </div>
+</div>
+`;

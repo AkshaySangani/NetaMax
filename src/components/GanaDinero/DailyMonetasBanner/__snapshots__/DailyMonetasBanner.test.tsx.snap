@@ -1,0 +1,101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render DailyMonetasBanner component DailyMonetasBanner should render properly when a user is logged in 1`] = `
+<div>
+  <div
+    class="sc-bdvvtL jdjvsT css-1wld30"
+    id="gana-monetas-banner"
+  >
+    <div
+      class="sc-gsDKAQ cXlaqt css-k008qs"
+    >
+      <div
+        class="sc-dkPtRN eCljL css-1mydh6f"
+      >
+        <img
+          class="chakra-image css-1pg8bi"
+          src="/assets/images/banner-monetas/moneda-izquierda-arriba.webp"
+        />
+        <img
+          class="chakra-image css-10xjgmf"
+          src="/assets/images/banner-monetas/moneda-izquierda-abajo.webp"
+        />
+      </div>
+      <p
+        class="chakra-text sc-eCImPb dZBwrz css-1kuy7z7"
+        data-testid="daily-monetas-banner-text"
+      >
+        Ven diario y junta 3 monetas ! 😜
+      </p>
+      <button
+        class="chakra-button sc-hKwDye jCqsQU css-5c2176"
+        type="button"
+      >
+        Checa aquí
+      </button>
+      <div
+        class="sc-dkPtRN eCljL css-12ak7jr"
+      >
+        <img
+          class="chakra-image css-10xjgmf"
+          src="/assets/images/banner-monetas/moneda-derecha-arriba.webp"
+        />
+        <img
+          class="chakra-image css-uanaa8"
+          src="/assets/images/banner-monetas/moneda-derecha-abajo.webp"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Render DailyMonetasBanner component DailyMonetasBanner should render properly when a user is not logged in 1`] = `
+<div>
+  <div
+    class="sc-bdvvtL jdjvsT css-1wld30"
+    id="gana-monetas-banner"
+  >
+    <div
+      class="sc-gsDKAQ cXlaqt css-k008qs"
+    >
+      <div
+        class="sc-dkPtRN eCljL css-1mydh6f"
+      >
+        <img
+          class="chakra-image css-1pg8bi"
+          src="/assets/images/banner-monetas/moneda-izquierda-arriba.webp"
+        />
+        <img
+          class="chakra-image css-10xjgmf"
+          src="/assets/images/banner-monetas/moneda-izquierda-abajo.webp"
+        />
+      </div>
+      <p
+        class="chakra-text sc-eCImPb dZBwrz css-1kuy7z7"
+        data-testid="daily-monetas-banner-text"
+      >
+        ¿Quieres ganar dinero para tus compras? 😜
+      </p>
+      <button
+        class="chakra-button sc-hKwDye jCqsQU css-5c2176"
+        type="button"
+      >
+        Checa aquí
+      </button>
+      <div
+        class="sc-dkPtRN eCljL css-12ak7jr"
+      >
+        <img
+          class="chakra-image css-10xjgmf"
+          src="/assets/images/banner-monetas/moneda-derecha-arriba.webp"
+        />
+        <img
+          class="chakra-image css-uanaa8"
+          src="/assets/images/banner-monetas/moneda-derecha-abajo.webp"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

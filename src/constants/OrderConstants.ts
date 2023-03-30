@@ -1,0 +1,1 @@
+export const MAX_PRODUCT_IMAGES_IN_PRODUCT_CARD = 3;

@@ -1,0 +1,569 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`OrderTable Component Image should be render correctly if it's present in items array 1`] = `
+<div>
+  <div>
+    <div
+      class="chakra-container css-1l1bxqv"
+    >
+      <div
+        class="css-2rotl5"
+      >
+        <table
+          class="chakra-table css-0"
+          role="table"
+        >
+          <tbody
+            class="css-0"
+          >
+            <tr
+              class="css-0"
+              role="row"
+            >
+              <td
+                class="css-0"
+                role="gridcell"
+              >
+                <div
+                  class="css-k008qs"
+                >
+                  <img
+                    class="chakra-image css-1hi5ck8"
+                    src="https://nopcommerce-assets.s3.us-east-2.amazonaws.com/0002615_0.jpeg"
+                  />
+                  <p
+                    class="chakra-text css-1vg6q84"
+                  >
+                    Cigarros Pall Mall Mykonos
+                  </p>
+                </div>
+              </td>
+              <td
+                class="css-0"
+                role="gridcell"
+              >
+                <p
+                  class="chakra-text css-1vg6q84"
+                >
+                  Cantidad 
+                </p>
+                1
+              </td>
+              <td
+                class="css-0"
+                role="gridcell"
+              >
+                <p
+                  class="chakra-text css-1vg6q84"
+                >
+                  Precio unitario 
+                </p>
+                $53.95
+              </td>
+            </tr>
+            <tr
+              class="css-0"
+              role="row"
+            >
+              <td
+                class="css-0"
+                role="gridcell"
+              >
+                <div
+                  class="css-k008qs"
+                >
+                  <img
+                    class="chakra-image css-1hi5ck8"
+                    src="https://nopcommerce-assets.s3.us-east-2.amazonaws.com/0002629_0.jpeg"
+                  />
+                  <p
+                    class="chakra-text css-1vg6q84"
+                  >
+                    Pasta Dental Colgate Triple Accion Original 50 M
+                  </p>
+                </div>
+              </td>
+              <td
+                class="css-0"
+                role="gridcell"
+              >
+                <p
+                  class="chakra-text css-1vg6q84"
+                >
+                  Cantidad 
+                </p>
+                2
+              </td>
+              <td
+                class="css-0"
+                role="gridcell"
+              >
+                <p
+                  class="chakra-text css-1vg6q84"
+                >
+                  Precio unitario 
+                </p>
+                $13.50
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div
+        align="right"
+        class="css-17dmoar"
+      >
+        <p
+          class="chakra-text css-w0heo8"
+        >
+          Subtotal: $745.25
+        </p>
+        <p
+          class="chakra-text css-6ylitu"
+        >
+          Descuento: $10.00
+        </p>
+        <p
+          class="chakra-text css-1r08sim"
+        >
+          Total: $735.25
+        </p>
+      </div>
+    </div>
+    <div
+      class="css-r5smlo"
+    >
+      <div
+        class="css-1yv77fo"
+      >
+        <div
+          class="css-1itv5e3"
+        >
+          <hr
+            aria-orientation="horizontal"
+            class="chakra-divider css-8gqyvx"
+          />
+          <div
+            class="css-1u3f7f6"
+          >
+            <div
+              class="css-k008qs"
+            >
+              <img
+                class="chakra-image css-1hi5ck8"
+                src="https://nopcommerce-assets.s3.us-east-2.amazonaws.com/0002615_0.jpeg"
+              />
+              <p
+                class="chakra-text css-1mzljxq"
+              >
+                Cigarros Pall Mall Mykonos
+              </p>
+            </div>
+          </div>
+          <div
+            class="css-l3vf2k"
+          >
+            <div
+              class="css-tuh9u2"
+            >
+              <p
+                class="chakra-text css-eo8gwn"
+              >
+                Cantidad
+              </p>
+            </div>
+            <div
+              class="css-tuh9u2"
+            >
+              <p
+                class="chakra-text css-eo8gwn"
+              >
+                Precio
+              </p>
+            </div>
+            <div
+              class="css-tuh9u2"
+            >
+              <p
+                class="chakra-text css-l8qto0"
+              >
+                1
+              </p>
+            </div>
+            <div
+              class="css-tuh9u2"
+            >
+              <p
+                class="chakra-text css-l8qto0"
+              >
+                $53.95
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="css-1itv5e3"
+        >
+          <hr
+            aria-orientation="horizontal"
+            class="chakra-divider css-8gqyvx"
+          />
+          <div
+            class="css-1u3f7f6"
+          >
+            <div
+              class="css-k008qs"
+            >
+              <img
+                class="chakra-image css-1hi5ck8"
+                src="https://nopcommerce-assets.s3.us-east-2.amazonaws.com/0002629_0.jpeg"
+              />
+              <p
+                class="chakra-text css-1mzljxq"
+              >
+                Pasta Dental Colgate Triple Accion Original 50 M
+              </p>
+            </div>
+          </div>
+          <div
+            class="css-l3vf2k"
+          >
+            <div
+              class="css-tuh9u2"
+            >
+              <p
+                class="chakra-text css-eo8gwn"
+              >
+                Cantidad
+              </p>
+            </div>
+            <div
+              class="css-tuh9u2"
+            >
+              <p
+                class="chakra-text css-eo8gwn"
+              >
+                Precio
+              </p>
+            </div>
+            <div
+              class="css-tuh9u2"
+            >
+              <p
+                class="chakra-text css-l8qto0"
+              >
+                2
+              </p>
+            </div>
+            <div
+              class="css-tuh9u2"
+            >
+              <p
+                class="chakra-text css-l8qto0"
+              >
+                $13.50
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        align="right"
+        class="css-dm83zx"
+      >
+        <p
+          class="chakra-text css-1md0051"
+        >
+          Subtotal: $745.25
+        </p>
+        <p
+          class="chakra-text css-1xn3crm"
+        >
+          Descuento: $10.00
+        </p>
+        <p
+          class="chakra-text css-hmfnqz"
+        >
+          Total: $735.25
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`OrderTable Component OrderTable should be render correctly 1`] = `
+<div>
+  <div>
+    <div
+      class="chakra-container css-1l1bxqv"
+    >
+      <div
+        class="css-2rotl5"
+      >
+        <table
+          class="chakra-table css-0"
+          role="table"
+        >
+          <tbody
+            class="css-0"
+          >
+            <tr
+              class="css-0"
+              role="row"
+            >
+              <td
+                class="css-0"
+                role="gridcell"
+              >
+                <div
+                  class="css-k008qs"
+                >
+                  <p
+                    class="chakra-text css-1vg6q84"
+                  >
+                    Cigarros Pall Mall Mykonos
+                  </p>
+                </div>
+              </td>
+              <td
+                class="css-0"
+                role="gridcell"
+              >
+                <p
+                  class="chakra-text css-1vg6q84"
+                >
+                  Cantidad 
+                </p>
+                1
+              </td>
+              <td
+                class="css-0"
+                role="gridcell"
+              >
+                <p
+                  class="chakra-text css-1vg6q84"
+                >
+                  Precio unitario 
+                </p>
+                $53.95
+              </td>
+            </tr>
+            <tr
+              class="css-0"
+              role="row"
+            >
+              <td
+                class="css-0"
+                role="gridcell"
+              >
+                <div
+                  class="css-k008qs"
+                >
+                  <p
+                    class="chakra-text css-1vg6q84"
+                  >
+                    Pasta Dental Colgate Triple Accion Original 50 M
+                  </p>
+                </div>
+              </td>
+              <td
+                class="css-0"
+                role="gridcell"
+              >
+                <p
+                  class="chakra-text css-1vg6q84"
+                >
+                  Cantidad 
+                </p>
+                2
+              </td>
+              <td
+                class="css-0"
+                role="gridcell"
+              >
+                <p
+                  class="chakra-text css-1vg6q84"
+                >
+                  Precio unitario 
+                </p>
+                $13.50
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div
+        align="right"
+        class="css-17dmoar"
+      >
+        <p
+          class="chakra-text css-w0heo8"
+        >
+          Subtotal: $745.25
+        </p>
+        <p
+          class="chakra-text css-6ylitu"
+        >
+          Descuento: $10.00
+        </p>
+        <p
+          class="chakra-text css-1r08sim"
+        >
+          Total: $735.25
+        </p>
+      </div>
+    </div>
+    <div
+      class="css-r5smlo"
+    >
+      <div
+        class="css-1yv77fo"
+      >
+        <div
+          class="css-1itv5e3"
+        >
+          <hr
+            aria-orientation="horizontal"
+            class="chakra-divider css-8gqyvx"
+          />
+          <div
+            class="css-1u3f7f6"
+          >
+            <div
+              class="css-k008qs"
+            >
+              <p
+                class="chakra-text css-1mzljxq"
+              >
+                Cigarros Pall Mall Mykonos
+              </p>
+            </div>
+          </div>
+          <div
+            class="css-l3vf2k"
+          >
+            <div
+              class="css-tuh9u2"
+            >
+              <p
+                class="chakra-text css-eo8gwn"
+              >
+                Cantidad
+              </p>
+            </div>
+            <div
+              class="css-tuh9u2"
+            >
+              <p
+                class="chakra-text css-eo8gwn"
+              >
+                Precio
+              </p>
+            </div>
+            <div
+              class="css-tuh9u2"
+            >
+              <p
+                class="chakra-text css-l8qto0"
+              >
+                1
+              </p>
+            </div>
+            <div
+              class="css-tuh9u2"
+            >
+              <p
+                class="chakra-text css-l8qto0"
+              >
+                $53.95
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="css-1itv5e3"
+        >
+          <hr
+            aria-orientation="horizontal"
+            class="chakra-divider css-8gqyvx"
+          />
+          <div
+            class="css-1u3f7f6"
+          >
+            <div
+              class="css-k008qs"
+            >
+              <p
+                class="chakra-text css-1mzljxq"
+              >
+                Pasta Dental Colgate Triple Accion Original 50 M
+              </p>
+            </div>
+          </div>
+          <div
+            class="css-l3vf2k"
+          >
+            <div
+              class="css-tuh9u2"
+            >
+              <p
+                class="chakra-text css-eo8gwn"
+              >
+                Cantidad
+              </p>
+            </div>
+            <div
+              class="css-tuh9u2"
+            >
+              <p
+                class="chakra-text css-eo8gwn"
+              >
+                Precio
+              </p>
+            </div>
+            <div
+              class="css-tuh9u2"
+            >
+              <p
+                class="chakra-text css-l8qto0"
+              >
+                2
+              </p>
+            </div>
+            <div
+              class="css-tuh9u2"
+            >
+              <p
+                class="chakra-text css-l8qto0"
+              >
+                $13.50
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        align="right"
+        class="css-dm83zx"
+      >
+        <p
+          class="chakra-text css-1md0051"
+        >
+          Subtotal: $745.25
+        </p>
+        <p
+          class="chakra-text css-1xn3crm"
+        >
+          Descuento: $10.00
+        </p>
+        <p
+          class="chakra-text css-hmfnqz"
+        >
+          Total: $735.25
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;

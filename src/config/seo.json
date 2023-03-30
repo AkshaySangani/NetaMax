@@ -1,0 +1,26 @@
+{
+  "title": "Neta",
+  "titleTemplate": "%s - Neta",
+  "description": "Neta - https://www.neta.mx/",
+  "openGraph": {
+    "title": "Neta",
+    "description": "Neta - https://www.neta.mx/",
+    "type": "website",
+    "locale": "es_MX",
+    "url": "https://www.neta.mx/",
+    "site_name": "Neta",
+    "images": [
+      {
+        "url": "/assets/images/log.png",
+        "width": 800,
+        "height": 600,
+        "alt": "Neta"
+      }
+    ]
+  },
+  "twitter": {
+    "handle": "@neta",
+    "site": "@neta",
+    "cardType": "summary_large_image"
+  }
+}

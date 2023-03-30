@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NavBarShops component Name should be present in document 1`] = `
+<div>
+  <div
+    class="css-1ezqwlw"
+  >
+    <div
+      class="chakra-container css-1ax6rs1"
+    >
+      <div
+        class="css-1dl3nfl"
+      >
+        <div
+          class="css-cgq59l"
+        >
+          <img
+            alt="Neta logo"
+            class="chakra-image css-mkq9of"
+            src="/assets/images/logo.png"
+          />
+        </div>
+        <div
+          class="css-cgq59l"
+        >
+          <img
+            alt="ayuda-logo"
+            class="chakra-image css-0"
+            src="/assets/images/misVentas/AyudaMobile.svg"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`NavBarShops component NavBarShops should be render correctly 1`] = `
+<div>
+  <div
+    class="css-1ezqwlw"
+  >
+    <div
+      class="chakra-container css-1ax6rs1"
+    >
+      <div
+        class="css-1dl3nfl"
+      >
+        <div
+          class="css-cgq59l"
+        >
+          <img
+            alt="Neta logo"
+            class="chakra-image css-mkq9of"
+            src="/assets/images/logo.png"
+          />
+        </div>
+        <div
+          class="css-cgq59l"
+        >
+          <img
+            alt="ayuda-logo"
+            class="chakra-image css-0"
+            src="/assets/images/misVentas/AyudaMobile.svg"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

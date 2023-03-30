@@ -1,0 +1,104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PurchaseSummary component test PurchaseSummary should be rendered correctly 1`] = `
+<div>
+  <div
+    class="css-wmz062"
+  >
+    <div
+      class="css-z7mtfw"
+    >
+      <p
+        class="chakra-text css-0"
+      >
+        Suma parcial
+      </p>
+      <p
+        class="chakra-text css-1nhysjy"
+      >
+        $60.00
+         
+      </p>
+    </div>
+    <div
+      class="css-z7mtfw"
+    >
+      <p
+        class="chakra-text css-0"
+      >
+        Envío
+      </p>
+      <p
+        class="chakra-text css-1nhysjy"
+      >
+        Gratis
+      </p>
+    </div>
+    <div
+      class="css-z7mtfw"
+    >
+      <div
+        class="css-k008qs"
+      >
+        <p
+          class="chakra-text css-0"
+        >
+          Descuento cupón
+        </p>
+      </div>
+      <p
+        class="chakra-text css-fa9nx4"
+      >
+        <p
+          class="chakra-text css-0"
+        >
+          -
+          $10.00
+        </p>
+      </p>
+    </div>
+    <div
+      class="css-z7mtfw"
+    >
+      <div
+        class="css-k008qs"
+      >
+        <p
+          class="chakra-text css-0"
+        >
+          Monetas
+        </p>
+        <img
+          class="chakra-image css-1isemmb"
+          src="/assets/images/icons/dolar.png"
+        />
+      </div>
+      <p
+        class="chakra-text css-fa9nx4"
+      >
+        - 
+        $20.00
+      </p>
+    </div>
+    <div
+      class="css-eofv09"
+    >
+      <hr />
+    </div>
+    <div
+      class="css-z7mtfw"
+    >
+      <p
+        class="chakra-text css-ha3xn3"
+      >
+        Total a pagar
+      </p>
+      <p
+        class="chakra-text css-1nhysjy"
+      >
+        $30.00
+      </p>
+    </div>
+  </div>
+</div>
+`;

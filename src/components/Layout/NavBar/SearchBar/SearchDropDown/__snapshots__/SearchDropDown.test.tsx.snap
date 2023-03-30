@@ -1,0 +1,392 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Empty SearchDropDown Component SearchDropDown should be render correctly 1`] = `<div />`;
+
+exports[`Empty SearchDropDown Component SearchDropDown should be render correctly 2`] = `<div />`;
+
+exports[`Loading SearchDropDown Component SearchDropDown should be render correctly 1`] = `
+<div>
+  <div
+    class="sc-bdvvtL dZGqEP css-0"
+  >
+    <div
+      class="css-na8a98"
+    >
+      <div
+        class="chakra-spinner css-166ypan"
+      >
+        <span
+          class="css-f8n5zr"
+        >
+          Loading...
+        </span>
+      </div>
+       Buscando...
+    </div>
+  </div>
+</div>
+`;
+
+exports[`No Result SearchDropDown Component SearchDropDown should be render correctly 1`] = `
+<div>
+  <div
+    class="sc-bdvvtL dZGqEP css-0"
+  >
+    <div
+      class="css-na8a98"
+    >
+      <p
+        class="chakra-text css-0"
+      >
+        Sorry
+         😔
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`SearchDropDown Component renders SearchDropDown should be render correctly 1`] = `
+<div>
+  <div
+    class="sc-bdvvtL dZGqEP css-0"
+  >
+    <ul>
+      <li>
+        <div
+          class="css-wnav8p"
+        >
+          <a
+            class="chakra-link css-1vgw9ga"
+            href="/products/2409"
+          >
+            <div
+              class="css-1897rw9"
+            >
+              <img
+                class="chakra-image__placeholder css-13ixl2"
+                src="/assets/images/noimg.png"
+              />
+              <div
+                class="css-j7qwjs"
+              >
+                <p
+                  class="chakra-text css-1lz7kpb"
+                >
+                  Medias Noches 8 pz
+                </p>
+                <div
+                  class="css-k008qs"
+                >
+                  <p
+                    class="chakra-text css-1vg6q84"
+                  >
+                    $31.50
+                     
+                  </p>
+                  <del
+                    class="chakra-text css-z75c2u"
+                  >
+                    $35.00
+                  </del>
+                </div>
+              </div>
+            </div>
+          </a>
+          <div
+            class="css-0"
+          />
+        </div>
+        <div
+          class="css-17xejub"
+        />
+        <div
+          class="css-1jknndk"
+        >
+          <div
+            class="chakra-stack css-owwupj"
+          >
+            <button
+              aria-label="remove"
+              class="chakra-button css-ljqi8d"
+              type="button"
+            >
+              <svg
+                aria-hidden="true"
+                fill="currentColor"
+                focusable="false"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M5 11h14v2H5z"
+                />
+              </svg>
+            </button>
+            <input
+              aria-readonly="true"
+              class="chakra-input css-xi606m"
+              data-testid="counter"
+              readonly=""
+              value="10"
+            />
+            <button
+              aria-label="add"
+              class="chakra-button css-ljqi8d"
+              disabled=""
+              type="button"
+            >
+              <svg
+                aria-hidden="true"
+                fill="currentColor"
+                focusable="false"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M19 11h-6V5h-2v6H5v2h6v6h2v-6h6z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </li>
+      <li>
+        <div
+          class="css-wnav8p"
+        >
+          <a
+            class="chakra-link css-1vgw9ga"
+            href="/products/2425"
+          >
+            <div
+              class="css-1897rw9"
+            >
+              <img
+                class="chakra-image__placeholder css-13ixl2"
+                src="/assets/images/noimg.png"
+              />
+              <div
+                class="css-j7qwjs"
+              >
+                <p
+                  class="chakra-text css-1lz7kpb"
+                >
+                  Pan integral Oroweat 12 granos 680 g
+                </p>
+                <div
+                  class="css-k008qs"
+                >
+                  <p
+                    class="chakra-text css-1vg6q84"
+                  >
+                    $47.50
+                     
+                  </p>
+                  <del
+                    class="chakra-text css-z75c2u"
+                  >
+                    $57.00
+                  </del>
+                </div>
+              </div>
+            </div>
+          </a>
+          <div
+            class="css-0"
+          />
+        </div>
+        <div
+          class="css-17xejub"
+        />
+        <div
+          class="css-1jknndk"
+        >
+          <div
+            class="chakra-stack css-owwupj"
+          >
+            <button
+              aria-label="remove"
+              class="chakra-button css-ljqi8d"
+              type="button"
+            >
+              <svg
+                aria-hidden="true"
+                fill="currentColor"
+                focusable="false"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M5 11h14v2H5z"
+                />
+              </svg>
+            </button>
+            <input
+              aria-readonly="true"
+              class="chakra-input css-xi606m"
+              data-testid="counter"
+              readonly=""
+              value="10"
+            />
+            <button
+              aria-label="add"
+              class="chakra-button css-ljqi8d"
+              type="button"
+            >
+              <svg
+                aria-hidden="true"
+                fill="currentColor"
+                focusable="false"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M19 11h-6V5h-2v6H5v2h6v6h2v-6h6z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </li>
+      <li>
+        <div
+          class="css-wnav8p"
+        >
+          <a
+            class="chakra-link css-1vgw9ga"
+            href="/products/2426"
+          >
+            <div
+              class="css-iulr1p"
+            >
+              <img
+                class="chakra-image__placeholder css-13ixl2"
+                src="/assets/images/noimg.png"
+              />
+              <div
+                class="css-j7qwjs"
+              >
+                <p
+                  class="chakra-text css-jhf9jw"
+                >
+                  Pan Integral Multigrano 680 gr
+                </p>
+                <div
+                  class="css-k008qs"
+                >
+                  <p
+                    class="chakra-text css-1vg6q84"
+                  >
+                    $47.50
+                     
+                  </p>
+                  <del
+                    class="chakra-text css-z75c2u"
+                  >
+                    $57.00
+                  </del>
+                </div>
+              </div>
+            </div>
+          </a>
+          <div
+            class="css-0"
+          />
+        </div>
+        <div
+          class="css-17xejub"
+        />
+        <div
+          class="css-ubxk8c"
+        >
+          <button
+            class="chakra-button css-1rm5qvh"
+            data-testid="add-button-2426"
+            disabled=""
+            type="button"
+          >
+            Añadir
+          </button>
+        </div>
+      </li>
+      <li>
+        <div
+          class="css-wnav8p"
+        >
+          <a
+            class="chakra-link css-1vgw9ga"
+            href="/products/2427"
+          >
+            <div
+              class="css-iulr1p"
+            >
+              <img
+                class="chakra-image__placeholder css-13ixl2"
+                src="/assets/images/noimg.png"
+              />
+              <div
+                class="css-j7qwjs"
+              >
+                <p
+                  class="chakra-text css-jhf9jw"
+                >
+                  1-2-3 Aceite Vegetal 1 Litro
+                </p>
+                <div
+                  class="css-k008qs"
+                >
+                  <p
+                    class="chakra-text css-1vg6q84"
+                  >
+                    $50.50
+                     
+                  </p>
+                  <del
+                    class="chakra-text css-z75c2u"
+                  >
+                    $57.00
+                  </del>
+                </div>
+              </div>
+            </div>
+          </a>
+          <div
+            class="css-0"
+          />
+        </div>
+        <div
+          class="css-17xejub"
+        />
+        <div
+          class="css-ubxk8c"
+        >
+          <button
+            class="chakra-button css-1rm5qvh"
+            data-testid="add-button-2427"
+            type="button"
+          >
+            Añadir
+          </button>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+`;

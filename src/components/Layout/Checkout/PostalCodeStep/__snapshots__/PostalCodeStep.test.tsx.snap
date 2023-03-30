@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PostalCodeStep component PostalCodeStep should be rendered correctly 1`] = `
+<div>
+  <p
+    class="chakra-text css-dbvryr"
+  >
+    Ingresa tus datos para continuar
+  </p>
+  <div
+    class="css-1nbgepu"
+  >
+    <div
+      class="chakra-form-control css-0"
+      role="group"
+    >
+      <label
+        class="chakra-form__label css-1rc40or"
+        data-invalid=""
+        for="field-1"
+        id="field-1-label"
+      >
+        Código postal
+      </label>
+      <input
+        aria-describedby="field-1-feedback"
+        aria-invalid="true"
+        class="chakra-input css-0"
+        id="field-1"
+        pattern="[0-9]{5}"
+        type="number"
+      />
+      <div
+        aria-live="polite"
+        class="chakra-form__error-message css-70qvj9"
+        id="field-1-feedback"
+      />
+      <div
+        class="css-s8r1xj"
+      />
+      <div
+        class="css-rhrt5a"
+      >
+        <div
+          class="css-0"
+        >
+          <svg
+            fill="none"
+            height="40"
+            viewBox="0 0 40 40"
+            width="40"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <circle
+              cx="20"
+              cy="20"
+              fill="#C1E7CB"
+              opacity="0.5"
+              r="20"
+            />
+            <path
+              clip-rule="evenodd"
+              d="M21.0012 11C21.0012 10.4477 20.5534 10 20.0012 10C19.4489 10 19.0012 10.4477 19.0012 11V11.75H18.4437C16.2187 11.75 14.3771 13.48 14.2382 15.7007L14.0172 19.2342C13.9329 20.5814 13.4806 21.8797 12.7096 22.9876C12.0129 23.9886 12.6331 25.3712 13.844 25.5165L17.2512 25.9254V27C17.2512 28.5188 18.4824 29.75 20.0012 29.75C21.5199 29.75 22.7512 28.5188 22.7512 27V25.9254L26.1583 25.5165C27.3692 25.3712 27.9894 23.9886 27.2927 22.9876C26.5217 21.8797 26.0694 20.5814 25.9851 19.2342L25.7641 15.7007C25.6252 13.48 23.7836 11.75 21.5586 11.75H21.0012V11ZM18.4437 13.25C17.0107 13.25 15.8247 14.3642 15.7353 15.7944L15.5142 19.3278C15.4129 20.949 14.8686 22.5112 13.9408 23.8444C13.8904 23.9168 13.9352 24.0167 14.0227 24.0272L17.7604 24.4757C19.2489 24.6543 20.7534 24.6543 22.2419 24.4757L25.9796 24.0272C26.0671 24.0167 26.1119 23.9168 26.0616 23.8444C25.1337 22.5112 24.5895 20.949 24.4881 19.3278L24.2671 15.7944C24.1776 14.3642 22.9916 13.25 21.5586 13.25H18.4437ZM20.0012 28.25C19.3108 28.25 18.7512 27.6904 18.7512 27V26.25H21.2512V27C21.2512 27.6904 20.6915 28.25 20.0012 28.25Z"
+              fill="#212121"
+              fill-rule="evenodd"
+            />
+          </svg>
+        </div>
+        <p
+          class="chakra-text css-i1y2vx"
+        >
+          Con tu código postal podemos recomendarte las mejores promociones a tus tiendas de confianza.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;
